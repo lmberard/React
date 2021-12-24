@@ -1,5 +1,8 @@
 # Tic Tac Toe
 
+![TicTacToe](https://user-images.githubusercontent.com/50753891/147373452-0063feb2-db4b-4cfa-bc02-e0d204040610.gif)
+
+
 ## To run:
 
 ### `npm start`
