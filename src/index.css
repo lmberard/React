@@ -1,6 +1,20 @@
 body {
   font: 20px "Century Gothic", Futura, sans-serif;
   margin: 20px;
+  color: white;
+  background: rgb(43, 42, 42);
+}
+
+button {
+  background-color: #42ac6e; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 16px;
 }
 
 ol,
@@ -26,8 +40,7 @@ ul {
   font-weight: bold;
   line-height: 84px;
   height: 84px;
-  margin-right: -1px;
-  margin-top: -1px;
+  margin: 5px;
   padding: 0;
   text-align: center;
   width: 84px;
@@ -47,5 +60,5 @@ ul {
 }
 
 .game-info {
-  margin-left: 20px;
+  margin-left: 40px;
 }
